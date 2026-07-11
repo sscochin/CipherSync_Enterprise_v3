@@ -16,6 +16,7 @@
 #include <WindowsConstants.au3>
 #include <GUIConstantsEx.au3>
 #include <ListViewConstants.au3>
+#include "Common.au3"
 
 
 ; ==========================================================
@@ -50,7 +51,7 @@ Global $lvSnapshots
 ; GUI
 ; ==========================================================
 
-$hGUI = GUICreate("CipherSync Backup Setup", 700, 650)
+GUICreate($APP_NAME & " - " & $APP_VERSION, $WINDOW_WIDTH, $WINDOW_HEIGHT)
 
 MsgBox(64, "Welcome to CipherSync Backup Setup", _
 "Welcome to CipherSync Backup Setup" & @CRLF & @CRLF & _
