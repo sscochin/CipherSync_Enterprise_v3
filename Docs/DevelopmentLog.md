@@ -21,3 +21,15 @@ Next Tasks
 - Help Window
 - About Window
 - Progress Indicator
+## Day 2 – Product Foundation
+
+- Established product documentation structure.
+- Created ROADMAP.md.
+- Created PRODUCT_VISION.md.
+- Created USP.md.
+- Created IDEAS.md.
+- Created CUSTOMER_REQUESTS.md.
+- Created CHANGELOG.md.
+- Finalized development workflow.
+- Decided to polish the existing UI instead of redesigning it.
+- Introduced the concept of "Backup Guardian".
