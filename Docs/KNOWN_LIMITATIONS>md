@@ -1,0 +1,11 @@
+Current Limitations
+
+- Repository cannot be renamed.
+- Cloud synchronization depends on the cloud client.
+- Restore speed depends on storage performance.
+
+Planned Improvements
+
+- Repository metadata.
+- Backup Guardian.
+- Health Dashboard.
